@@ -1,6 +1,6 @@
 # qXRP Copyright And Licensing Strategy
 
-Copyright (c) 2026 qXRP Team. All rights reserved.
+Copyright (c) 2026 BEARTEC LTD (company number 17166952, England and Wales). All rights reserved.
 
 This document explains how licensing is intended to work for qXRP while the project remains based on the upstream XRPLF/rippled codebase.
 
